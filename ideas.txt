@@ -1,0 +1,16 @@
+TO DELETE OR CHANGE RECORDS IN ACCESS
+    create an event with a popup window or form
+    ask for admin password and validate input
+  FOR THIS TO WORK
+    there must be an admin table with passwords and usernames
+    there must be an admin form to change passwords and add admins
+    the admin table must only be editable through the form for security and data integrity
+
+CONSIDER SOME FORM OF UPSIZING?!? (FUCK THAT WORD SUCKS)
+    maybe the databases need to be stored on a server
+    that would solve the problem of sharing the info and editing it?
+    add a bit more overhead, increase security
+
+LITERALLY RIGHT AFTER MY BRILLIANT FUCKING IDEA
+THE NEXT PROJECT MAKES UPSIZING OBSOLETE FOR A SMALL-SCALE COMPANY
+
